@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 
 <svg
-xmlns="https://raw.githubusercontent.com/Zero-Contact/Zero-Contact/main/assets/avatar.png"
+xmlns="http://www.w3.org/2000/svg"
 width="1600"
 height="620"
 viewBox="0 0 1600 620"
@@ -211,7 +211,7 @@ Replace href with your avatar path if needed.
 
 <image
 
-href="./avatar.png"
+href="href="href="https://raw.githubusercontent.com/Zero-Contact/Zero-Contact/main/assets/avatar.png""
 
 x="705"
 
