@@ -1,0 +1,104 @@
+<!-- ===================================================== -->
+<!-- assets/footer.svg -->
+<!-- ZERO-CONTACT -->
+<!-- VERSION 1.0 -->
+<!-- ===================================================== -->
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1600"
+height="240"
+viewBox="0 0 1600 240"
+fill="none">
+
+<defs>
+
+<linearGradient id="accent"
+x1="0"
+y1="0"
+x2="1600"
+y2="240">
+
+<stop offset="0%" stop-color="#39BDF8"/>
+<stop offset="100%" stop-color="#58D2FF"/>
+
+</linearGradient>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="1600"
+height="240"
+rx="28"
+fill="#090B10"/>
+
+<!-- Top Divider -->
+
+<line
+x1="80"
+y1="60"
+x2="760"
+y2="60"
+stroke="#242D38"/>
+
+<rect
+x="795"
+y="55"
+width="10"
+height="10"
+transform="rotate(45 800 60)"
+fill="url(#accent)"/>
+
+<line
+x1="840"
+y1="60"
+x2="1520"
+y2="60"
+stroke="#242D38"/>
+
+<!-- Quote -->
+
+<text
+x="800"
+y="115"
+text-anchor="middle"
+fill="#F8FAFC"
+font-size="28"
+font-family="IBM Plex Sans"
+font-weight="600">
+
+Design quietly.
+
+</text>
+
+<text
+x="800"
+y="155"
+text-anchor="middle"
+fill="#9AA5B1"
+font-size="22"
+font-family="IBM Plex Sans">
+
+Build deliberately.
+
+Keep improving.
+
+</text>
+
+<!-- Bottom -->
+
+<text
+x="800"
+y="205"
+text-anchor="middle"
+fill="#39BDF8"
+font-size="12"
+font-family="JetBrains Mono">
+
+ZERO-CONTACT • 2026
+
+</text>
+
+</svg>
