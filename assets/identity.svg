@@ -1,0 +1,259 @@
+<!-- ===================================================== -->
+<!-- assets/identity.svg -->
+<!-- ZERO-CONTACT -->
+<!-- VERSION 1.0 -->
+<!-- ===================================================== -->
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1600"
+height="420"
+viewBox="0 0 1600 420"
+fill="none">
+
+<defs>
+
+<linearGradient id="accent"
+x1="0"
+y1="0"
+x2="1600"
+y2="420">
+
+<stop offset="0%" stop-color="#39BDF8"/>
+<stop offset="100%" stop-color="#58D2FF"/>
+
+</linearGradient>
+
+<filter id="shadow">
+
+<feDropShadow
+dx="0"
+dy="18"
+stdDeviation="28"
+flood-color="#000000"
+flood-opacity=".32"/>
+
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="1600"
+height="420"
+rx="28"
+fill="#090B10"/>
+
+<!-- Main Card -->
+
+<rect
+x="40"
+y="40"
+width="1520"
+height="340"
+rx="28"
+fill="#111827"
+fill-opacity=".42"
+stroke="#242D38"
+filter="url(#shadow)"/>
+
+<!-- Heading -->
+
+<text
+x="90"
+y="95"
+fill="#F8FAFC"
+font-size="34"
+font-family="IBM Plex Sans"
+font-weight="700">
+
+Identity
+
+</text>
+
+<text
+x="1510"
+y="95"
+text-anchor="end"
+fill="#94A3B8"
+font-size="11"
+font-family="JetBrains Mono">
+
+SECTION 01
+
+</text>
+
+<line
+x1="90"
+y1="118"
+x2="1510"
+y2="118"
+stroke="#222C39"/>
+
+<!-- LEFT -->
+
+<text
+x="120"
+y="170"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+ALIAS
+
+</text>
+
+<text
+x="120"
+y="205"
+fill="#F8FAFC"
+font-size="26"
+font-family="IBM Plex Sans"
+font-weight="600">
+
+ZERO-CONTACT
+
+</text>
+
+<text
+x="120"
+y="255"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+STATUS
+
+</text>
+
+<text
+x="120"
+y="288"
+fill="#39BDF8"
+font-size="22"
+font-family="IBM Plex Sans"
+font-weight="600">
+
+BUILDING
+
+</text>
+
+<!-- CENTER -->
+
+<text
+x="620"
+y="170"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+MISSION
+
+</text>
+
+<text
+x="620"
+y="205"
+fill="#F8FAFC"
+font-size="22"
+font-family="IBM Plex Sans">
+
+Design products with intention.
+
+</text>
+
+<text
+x="620"
+y="255"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+APPROACH
+
+</text>
+
+<text
+x="620"
+y="288"
+fill="#F8FAFC"
+font-size="22"
+font-family="IBM Plex Sans">
+
+Simple.
+
+Useful.
+
+Lasting.
+
+</text>
+
+<!-- RIGHT -->
+
+<text
+x="1180"
+y="170"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+CONTACT
+
+</text>
+
+<text
+x="1180"
+y="205"
+fill="#F8FAFC"
+font-size="20"
+font-family="IBM Plex Sans">
+
+3rdinterstellar@gmail.com
+
+</text>
+
+<text
+x="1180"
+y="255"
+fill="#94A3B8"
+font-size="12"
+font-family="JetBrains Mono">
+
+VISIBILITY
+
+</text>
+
+<text
+x="1180"
+y="288"
+fill="#39BDF8"
+font-size="22"
+font-family="IBM Plex Sans">
+
+PUBLIC
+
+</text>
+
+<!-- Bottom Quote -->
+
+<line
+x1="90"
+y1="330"
+x2="1510"
+y2="330"
+stroke="#222C39"/>
+
+<text
+x="800"
+y="360"
+text-anchor="middle"
+fill="#9AA5B1"
+font-size="18"
+font-family="IBM Plex Sans">
+
+"Great products don't ask for attention. They become impossible to replace."
+
+</text>
+
+</svg>
